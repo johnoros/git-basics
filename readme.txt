@@ -1,3 +1,3 @@
 Git Basic.
 
-Just experimenting with git and github toady
+Just experimenting with git and github today
